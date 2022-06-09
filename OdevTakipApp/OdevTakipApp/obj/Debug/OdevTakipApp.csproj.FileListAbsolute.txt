@@ -1,0 +1,12 @@
+D:\Projeler\OdevTakipApp\OdevTakipApp\bin\Debug\OdevTakipApp.exe.config
+D:\Projeler\OdevTakipApp\OdevTakipApp\bin\Debug\OdevTakipApp.exe
+D:\Projeler\OdevTakipApp\OdevTakipApp\bin\Debug\OdevTakipApp.pdb
+D:\Projeler\OdevTakipApp\OdevTakipApp\obj\Debug\OdevTakipApp.csproj.AssemblyReference.cache
+D:\Projeler\OdevTakipApp\OdevTakipApp\obj\Debug\OdevTakipApp.csproj.SuggestedBindingRedirects.cache
+D:\Projeler\OdevTakipApp\OdevTakipApp\obj\Debug\OdevTakipApp.Form1.resources
+D:\Projeler\OdevTakipApp\OdevTakipApp\obj\Debug\OdevTakipApp.Properties.Resources.resources
+D:\Projeler\OdevTakipApp\OdevTakipApp\obj\Debug\OdevTakipApp.csproj.GenerateResource.cache
+D:\Projeler\OdevTakipApp\OdevTakipApp\obj\Debug\OdevTakipApp.csproj.CoreCompileInputs.cache
+D:\Projeler\OdevTakipApp\OdevTakipApp\obj\Debug\OdevTakipApp.exe
+D:\Projeler\OdevTakipApp\OdevTakipApp\obj\Debug\OdevTakipApp.pdb
+D:\Projeler\OdevTakipApp\OdevTakipApp\obj\Debug\OdevTakipApp.frmDetay.resources

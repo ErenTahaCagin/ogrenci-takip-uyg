@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="odevkontrol" Class="OdevDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=odevkontrol;Integrated Security=True" SettingsObjectName="OdevTakipApp.Properties.Settings" SettingsPropertyName="odevkontrolConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Ogrenciler" Member="TbOgrencilers">
+    <Type Name="TbOgrenciler">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="No" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Ad" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Soyad" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Cinsiyet" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="OdevKonusu" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TeslimEdildiMi" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="TeslimTarihi" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
